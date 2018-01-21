@@ -1,0 +1,62 @@
+/* Choose a set of fonts to import */
+/* @import url(https://fonts.googleapis.com/css?family=Roboto+Slab|Roboto|Inconsolata); */
+
+/* Set the typeface for the heading */
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Roboto Slab, serif";
+
+  /* font-family: "Roboto Slab, serif"; */
+}
+h1 {
+  color: #80FF48;
+  border: 1em solid #E591FF;
+  border-radius: 10em;
+  font-size: 18px;
+  background: #689978;
+  padding: 1em;
+  text-shadow: 2px 2px #25CC5A;
+
+}
+#wrapper {
+  color: #925ACC;
+}
+#someweed {
+  background-image: url("/Users/alscomp/desktop/challenges/define-your-style/ZMPEgObr.jpg");
+  background-size: 0.5em;
+  border-radius: 10px;
+  color: orange;
+
+}
+.t1 {
+  background-image: url("/Users/alscomp/desktop/challenges/define-your-style/vlju15664p301.jpg");
+  background-position: left;
+  color: #E7B640;
+  border-radius: 1em;
+  padding: 1em;
+
+}
+#Launchy {
+  background-image: url("/Users/alscomp/desktop/challenges/define-your-style/9nrqlb4i7o301.jpg");
+  background-size: 3em;
+  background-position: center;
+  color: orange;
+  font-size: 24px;
+}
+#funnybill {
+  background: radial-gradient( red , white, blue);
+  color: black;
+  padding: 1em;
+  font-size: 24px;
+  border-radius: 1em;
+
+}
+
+/* Set the typeface for the body, as well as the font and background colors */
+body {
+  /* font-family:  Roboto, sans-serif; */
+  /* color: #646464; */
+  /* background-color: #F6F6F7; */
+  margin: 2% 10%;
+  background: linear-gradient(45deg, red, yellow, green);
+  color: #C3854D;
+}
